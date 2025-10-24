@@ -38,7 +38,8 @@ public class HandlingAlert extends Base {
 		alert.initialiseBrowser();
 		//alert.verifySimplealert();
 		//alert.verifyConfirmalert();
-		alert.verifyPromptalert();
+		alert.verifyPromptalert();     
+	
 		
 		
 		
