@@ -29,7 +29,7 @@ public class HandlingAlert extends Base {
 		prompt.click();
 		Alert al=driver.switchTo().alert();
 		al.sendKeys("vismaya");
-		al.accept();
+		al.accept(); 
 		
 	}
 
